@@ -7,9 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootPostgresqlJpaApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SpringbootPostgresqlJpaApplication.class, args);
 	}
-
-
 
 }
